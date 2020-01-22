@@ -6,7 +6,7 @@ Currently the development environment utilizes a version of Maplestory hosted on
 This project is both a homage to the game that brought me years of joy growing up and also an effort to learn new technical skills.
 
 ## Table of contents
-* [Built With](#built-bith)
+* [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Setting Up Virtual Environment](#Setting-Up-Virtual-Environment)
