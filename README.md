@@ -6,14 +6,14 @@ Currently the development environment utilizes a version of Maplestory hosted on
 This project is both a homage to the game that brought me years of joy growing up and also an effort to learn new technical skills.
 
 ## Table of contents
-* [Technologies](#technologies)
+* [Built With](#built-bith)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Setting Up Virtual Environment](#Setting-Up-Virtual-Environment)
   * [Using and Developing Important Note](#Using-and-Developing-Important-Note)
 * [Future Plans](#Future-Plans)
 
-## Technologies
+## Built With
 The project as of its current development state heavily relies on:
 * Python ![python shield](https://img.shields.io/pypi/pyversions/pywin32)
 * pywin32 ![pywin shield](https://img.shields.io/pypi/v/pywin32)
