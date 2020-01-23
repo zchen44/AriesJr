@@ -11,6 +11,7 @@ This project is both a homage to the game that brought me years of joy growing u
   * [Prerequisites](#prerequisites)
   * [Setting Up Virtual Environment](#Setting-Up-Virtual-Environment)
   * [Using and Developing Important Note](#Using-and-Developing-Important-Note)
+* [Contributing](#Contributing)
 * [Future Plans](#Future-Plans)
 
 ## Built With
@@ -75,6 +76,9 @@ deactivate
 This script currently sends scan codes to the kernal as any game that uses the DirectX library (which includes MapleStory) will ignore virtual key presses.
 Thus one of the requirements when running the script is to have whatever interactive run the script be **Run as administrator**. 
 Only then, does the script have permission to send scan codes to the kernal.
+
+## Contributing
+Please read [CONTRIBUTING.md](https://github.com/zchen44/AriesJr/blob/develop/CONTRIBUTING.md) for the branching model, and the process for submitting pull requests.
 
 ## Future Plans
 * I want to eventually maybe set up a Jira board to keep track of tasks (Also seeing as a lot of companies use this, would be wise to familiarize)
